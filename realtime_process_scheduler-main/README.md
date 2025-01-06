@@ -55,7 +55,7 @@ The Real-Time Task Scheduler GUI is a Python application that provides a graphic
 
    ```
    cd real-time-task-scheduler-gui
-   python gui.py
+   python main.py
    ```
 
 2. **Manage Tasks**: Use the graphical interface to add, edit, remove, save, and load tasks. Input task details such as name, arrival time, and deadline.
@@ -70,9 +70,7 @@ The Real-Time Task Scheduler GUI is a Python application that provides a graphic
 
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request. Your feedback and contributions are highly appreciated.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE), allowing for free use, modification, and distribution.
 
 ## Acknowledgments
 
